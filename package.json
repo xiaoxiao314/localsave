@@ -1,0 +1,19 @@
+{
+  "name": "localsave",
+  "version": "1.0.0",
+  "description": "test localstorage",
+  "main": "localsave.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxiao314/localsave.git"
+  },
+  "author": "gh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoxiao314/localsave/issues"
+  },
+  "homepage": "https://github.com/xiaoxiao314/localsave#readme"
+}
