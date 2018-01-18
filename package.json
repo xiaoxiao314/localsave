@@ -1,6 +1,6 @@
 {
   "name": "localsave",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test localstorage",
   "main": "localsave.js",
   "scripts": {
