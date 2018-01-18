@@ -1,8 +1,9 @@
+import reqwest from 'reqwest'
 var localsave = function () {}
 
 localsave.setAndGetData = function(src) {
     reqwest({
-        url: url,
+        url: src,
         method: 'get',
         type: 'json',
         success (resp) {
